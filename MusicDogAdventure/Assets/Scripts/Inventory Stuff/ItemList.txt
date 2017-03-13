@@ -1,0 +1,21 @@
+{
+	"ID": 0,
+    "Title": "Stick",
+    "Description": "Excellent for throwing.",
+    "Usable": true,
+    "Slug": "stick"
+}|
+{
+    "ID": 1,
+    "Title": "Sheet Scrap #1",
+    "Description": "Crumpled scrap of sheet music. The notation is faded.",
+    "Usable": false,
+    "Slug": "sheet1"
+}|
+{
+    "ID": 2,
+    "Title": "Matches",
+    "Description": "A small box of wooden matches.",
+    "Usable": true,
+    "Slug": "matches"
+}

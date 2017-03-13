@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 460aec893ebb777439c91c18d6e74fb5
+timeCreated: 1487193045
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - inventorySlot: {fileID: 158960, guid: 121b4e501045a414f8e6607f14b554b9, type: 2}
+  - inventoryItem: {fileID: 129142, guid: 0015536f73feab241bca3f156d7e484f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
